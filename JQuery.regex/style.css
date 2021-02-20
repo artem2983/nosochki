@@ -1,0 +1,13 @@
+/* .try{
+    border: solid 2px;
+    height: 100px;
+width: 100px;
+border-radius: 2px; */
+
+/* }; */
+.block{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    position: relative;
+}

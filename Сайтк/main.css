@@ -1,0 +1,19 @@
+.roundabout{
+    background-color: #4b83a6;
+}
+.carousel-indicators{
+    bottom: -3rem;
+}
+.carousel-indicators li{
+    display: block;
+    width: 0.8rem;
+    height: 0.8rem;
+    background-color: #ffffff !important;
+opacity: 1;
+border-radius: 50%;
+
+}
+.carousel-indicators .active{
+    background-color:#2c5f7f !important;
+    
+}
